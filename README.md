@@ -10,9 +10,7 @@
 
 - 🔭 I’m studying Software Engineering at **SLTC Research University**
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Flutter Dart**
+- 🌱 I’m currently learning **Flutter Dart**
 
 - 📫 How to reach me **dinethriupeksha200@gmail.com**
 
